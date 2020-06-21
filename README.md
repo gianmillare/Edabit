@@ -24,7 +24,7 @@
 | [Convert Number to String of Dashes](https://edabit.com/challenge/f3jm7sk7LaYttYyLP) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/convert_number_to_dashes.py) | Very Easy |
 | [Return the Next Number from the Integer Passed](https://edabit.com/challenge/KjCS7occ9hfu5snpb) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/return_next_number.py) | Very Easy |
 | [To the Power of _____](https://edabit.com/challenge/xWSjvoH7mEkSnqS7H) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/to_the_power_of.py) | Very Easy |
-| [Compare Strings by Count of Characters](https://edabit.com/challenge/C3N2JEfFQoh4cqQ98) | | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/compare_strings_by_count_of_characters.py) | Very Easy |
+| [Compare Strings by Count of Characters](https://edabit.com/challenge/C3N2JEfFQoh4cqQ98) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/compare_strings_by_count_of_characters.py) | Very Easy |
 | [Concatenate First and Last Name into One String](https://edabit.com/challenge/pFQPcaaASgHuACbaS) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/concatenate_first_and_last_names.py) | Very Easy | 
 | [Multiple of 100](https://edabit.com/challenge/NebFhjXTn8NEbhYXY) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/multiple_of_100.py) | Very Easy |
 | [Is the Word Singular or Plural?](https://edabit.com/challenge/jozLzME3YptxydiQm) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/is_the_word_singular_or_plural.py) | Very Easy |
