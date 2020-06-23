@@ -2,6 +2,9 @@
 
 | Problem Set  | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
+| [Alphanumeric Restriction](https://edabit.com/challenge/kGEHEnj7qQf3KHd6F) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/alphanumeric_restriction.py) | Easy |
+| [Stand in Line](https://edabit.com/challenge/S26tvW7BPrJsyJApt) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/stand_in_line.py) | Easy |
+| [Scrabble Hand](https://edabit.com/challenge/cH5ce3f4QgnreDW4v) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/scrabble_hand.py) | Easy |
 | [How Many Vowels?](https://edabit.com/challenge/p88k8yHRPTMPt4bBo)  | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/how_many_vowels.py)  | Easy |
 | [Xs and Os, Nobody Knows](https://edabit.com/challenge/JSJEuuWduBB5hEX6k)  | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/x_and_o_nobody_knows.py)  | Easy |
 | [Return the Factorial](https://edabit.com/challenge/FF6kYPHdAcJnoosr5) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/return_the_factorial.py) | Easy |
