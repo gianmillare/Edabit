@@ -24,3 +24,13 @@
 | [Convert Number to String of Dashes](https://edabit.com/challenge/f3jm7sk7LaYttYyLP) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/convert_number_to_dashes.py) | Very Easy |
 | [Return the Next Number from the Integer Passed](https://edabit.com/challenge/KjCS7occ9hfu5snpb) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/return_next_number.py) | Very Easy |
 | [To the Power of _____](https://edabit.com/challenge/xWSjvoH7mEkSnqS7H) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/to_the_power_of.py) | Very Easy |
+| [Compare Strings by Count of Characters](https://edabit.com/challenge/C3N2JEfFQoh4cqQ98) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/compare_strings_by_count_of_characters.py) | Very Easy |
+| [Concatenate First and Last Name into One String](https://edabit.com/challenge/pFQPcaaASgHuACbaS) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/concatenate_first_and_last_names.py) | Very Easy | 
+| [Multiple of 100](https://edabit.com/challenge/NebFhjXTn8NEbhYXY) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/multiple_of_100.py) | Very Easy |
+| [Is the Word Singular or Plural?](https://edabit.com/challenge/jozLzME3YptxydiQm) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/is_the_word_singular_or_plural.py) | Very Easy |
+| [Profitable Gamble](https://edabit.com/challenge/SNM5EZ3FePECt2HQn) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/profitable_gamble.py) | Very Easy |
+| [Check String for Spaces](https://edabit.com/challenge/rR2qf7ELnXoXESiz2) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/check_string_for_spaces.py) | Very Easy |
+| [Return the Remainder from Two Numbers](https://edabit.com/challenge/KWoj7kWiHRqJtG6S2) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/return_the_remainder_from_two_numbers.py) | Very Easy |
+| [String to Integer and Vice Versa](https://edabit.com/challenge/WKJwo2xDNjKxwtGoH) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/string_to_integer_and_vice_versa.py) | Very Esay |
+| [Char-to-ASCII](https://edabit.com/challenge/9wfEZ4898nnpa9wL5) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/char_to_ASCII.py) | Very Easy |
+| [Area of a Triangle](https://edabit.com/challenge/aWLTzrRsrw7RakYrN) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/area_of_a_triangle.py) | Very Easy |
