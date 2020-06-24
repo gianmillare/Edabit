@@ -2,6 +2,9 @@
 
 | Problem Set  | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
+| [Is it Time for Milk and Cookies?](https://edabit.com/challenge/6nSckbgCx9hjTwmcw) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/is_it_time_for_milk_and_cookies.py) | Easy |
+| [Repeating Letters](https://edabit.com/challenge/HpqLxNqqRvMQoz8ME) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/repeating_letters.py) | Easy |
+| [Find the Missing Number](https://edabit.com/challenge/oMCNzA4DcgpsnXTRJ) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/finding_the_missing_number.py) | Easy |
 | [Alphanumeric Restriction](https://edabit.com/challenge/kGEHEnj7qQf3KHd6F) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/alphanumeric_restriction.py) | Easy |
 | [Stand in Line](https://edabit.com/challenge/S26tvW7BPrJsyJApt) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/stand_in_line.py) | Easy |
 | [Scrabble Hand](https://edabit.com/challenge/cH5ce3f4QgnreDW4v) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/scrabble_hand.py) | Easy |
