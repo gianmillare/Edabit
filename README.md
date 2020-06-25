@@ -2,6 +2,9 @@
 
 | Problem Set  | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
+| [Transform into a List with No Duplicates](https://edabit.com/challenge/hFNhDGNt8CNjSNnG9) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/transform_into_a_list_with_no_duplicates.py) | Easy |
+| [Return Only the Integer](https://edabit.com/challenge/DG2HLRqxFXxbaEDX4) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/return_only_the_integer.py) | Easy |
+| [Filter Strings from Array](https://edabit.com/challenge/EfEpbcGjXQYDFcdxF) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/filter_string_from_array.py) | Easy |
 | [Is it Time for Milk and Cookies?](https://edabit.com/challenge/6nSckbgCx9hjTwmcw) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/is_it_time_for_milk_and_cookies.py) | Easy |
 | [Repeating Letters](https://edabit.com/challenge/HpqLxNqqRvMQoz8ME) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/repeating_letters.py) | Easy |
 | [Find the Missing Number](https://edabit.com/challenge/oMCNzA4DcgpsnXTRJ) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/finding_the_missing_number.py) | Easy |
