@@ -2,6 +2,8 @@
 
 | Problem Set  | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
+| [A Circle and Two Squares](https://edabit.com/challenge/NNhkGocuPMcryW7GP) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/a_circle_and_two_squares.py) | Medium |
+| [Drunken Python](https://edabit.com/challenge/pfn6QRn6eiTHEPpSs) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/drunken_python.py) | Medium |
 | [Transform into a List with No Duplicates](https://edabit.com/challenge/hFNhDGNt8CNjSNnG9) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/transform_into_a_list_with_no_duplicates.py) | Easy |
 | [Return Only the Integer](https://edabit.com/challenge/DG2HLRqxFXxbaEDX4) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/return_only_the_integer.py) | Easy |
 | [Filter Strings from Array](https://edabit.com/challenge/EfEpbcGjXQYDFcdxF) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/filter_string_from_array.py) | Easy |
