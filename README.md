@@ -2,6 +2,7 @@
 
 | Problem Set  | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
+| [Calculate the Profit](https://edabit.com/challenge/YfoKQWNeYETb9PYpw) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/calculate_the_profit.py) | Medium |
 | [Factorial of a Number](https://edabit.com/challenge/PNbsQzmDR3CJ9JHkB) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/factorial_of_a_number.py) | Medium |
 | [FizzBuzz Interview Question](https://edabit.com/challenge/WXqH9qvvGkmx4dMvp) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/fizzbuzz_interview_question.py) | Medium |
 | [A Circle and Two Squares](https://edabit.com/challenge/NNhkGocuPMcryW7GP) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/a_circle_and_two_squares.py) | Medium |
