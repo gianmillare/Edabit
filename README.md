@@ -2,6 +2,7 @@
 
 | Problem Set  | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
+| [How Many Solutions Does This Quadratic Have?](https://edabit.com/challenge/o2AKq4xy3nfZabKXL) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/how_many_solutions_does_this_quadratic_have.py) | Medium |
 | [Calculate the Profit](https://edabit.com/challenge/YfoKQWNeYETb9PYpw) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/calculate_the_profit.py) | Medium |
 | [Factorial of a Number](https://edabit.com/challenge/PNbsQzmDR3CJ9JHkB) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/factorial_of_a_number.py) | Medium |
 | [FizzBuzz Interview Question](https://edabit.com/challenge/WXqH9qvvGkmx4dMvp) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/fizzbuzz_interview_question.py) | Medium |
