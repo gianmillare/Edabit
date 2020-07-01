@@ -38,6 +38,7 @@
 ### Difficulty - Very Easy
 | Problem Set  | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
+| [How Edabit Works](https://edabit.com/challenge/8ym3dKrL3svkYr4h4) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/how_edabit_works.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/very_easy/how_edabit_works.js) | Very Easy |
 | [Is the Number Even or Odd?](https://edabit.com/challenge/DruRW8YM8PNiH9Kg7) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/is_the_number_even_or_odd.py) | Very Easy |
 | [Find the Largest Number in a List](https://edabit.com/challenge/A7hyDnb72prWryeuY) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/find_the_largest_number.py) | Very Easy |
 | [Find the Smallest Number in a List](https://edabit.com/challenge/ecSZ5kDBwCD3ctjE6) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/find_the_smallest_number_in_a_list.py) | Very Easy |
