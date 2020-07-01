@@ -1,5 +1,6 @@
 # Edabit
 
+### Difficulty - Medium
 | Problem Set  | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
 | [How Many Solutions Does This Quadratic Have?](https://edabit.com/challenge/o2AKq4xy3nfZabKXL) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/how_many_solutions_does_this_quadratic_have.py) | Medium |
@@ -8,6 +9,10 @@
 | [FizzBuzz Interview Question](https://edabit.com/challenge/WXqH9qvvGkmx4dMvp) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/fizzbuzz_interview_question.py) | Medium |
 | [A Circle and Two Squares](https://edabit.com/challenge/NNhkGocuPMcryW7GP) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/a_circle_and_two_squares.py) | Medium |
 | [Drunken Python](https://edabit.com/challenge/pfn6QRn6eiTHEPpSs) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/drunken_python.py) | Medium |
+
+### Difficulty - Easy
+| Problem Set  | Solution | Difficulty |
+| ------------- | ------------- | ------------- |
 | [Transform into a List with No Duplicates](https://edabit.com/challenge/hFNhDGNt8CNjSNnG9) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/transform_into_a_list_with_no_duplicates.py) | Easy |
 | [Return Only the Integer](https://edabit.com/challenge/DG2HLRqxFXxbaEDX4) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/return_only_the_integer.py) | Easy |
 | [Filter Strings from Array](https://edabit.com/challenge/EfEpbcGjXQYDFcdxF) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/filter_string_from_array.py) | Easy |
@@ -29,6 +34,10 @@
 | [CMS Selector Based on a Given String](https://edabit.com/challenge/whEretKtpEbEBAAfr) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/cms_selector_based_on_a_given_string.py) | Easy |
 | [Radian to Degree](https://edabit.com/challenge/bNp4kd4rFfysPepkp) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/radian_to_degree.py) | Easy |
 | [Characters in Shapes](https://edabit.com/challenge/S9KCN5kqoDbhNdKh5) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/characters_in_shapes.py) | Easy |
+
+### Difficulty - Very Easy
+| Problem Set  | Solution | Difficulty |
+| ------------- | ------------- | ------------- |
 | [Is the Number Even or Odd?](https://edabit.com/challenge/DruRW8YM8PNiH9Kg7) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/is_the_number_even_or_odd.py) | Very Easy |
 | [Find the Largest Number in a List](https://edabit.com/challenge/A7hyDnb72prWryeuY) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/find_the_largest_number.py) | Very Easy |
 | [Find the Smallest Number in a List](https://edabit.com/challenge/ecSZ5kDBwCD3ctjE6) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/find_the_smallest_number_in_a_list.py) | Very Easy |
