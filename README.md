@@ -39,13 +39,13 @@
 | Problem Set  | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
 | [How Edabit Works](https://edabit.com/challenge/8ym3dKrL3svkYr4h4) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/how_edabit_works.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/very_easy/how_edabit_works.js) | Very Easy |
+| [Return the Sum of Two Numbers](https://edabit.com/challenge/rZToTkR5eB9Zn4zLh) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/return_the_sum_of_two_numbers.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/very_easy/return_the_sum_of_two_numbers.js) | Very Easy |
 | [Is the Number Even or Odd?](https://edabit.com/challenge/DruRW8YM8PNiH9Kg7) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/is_the_number_even_or_odd.py) | Very Easy |
 | [Find the Largest Number in a List](https://edabit.com/challenge/A7hyDnb72prWryeuY) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/find_the_largest_number.py) | Very Easy |
 | [Find the Smallest Number in a List](https://edabit.com/challenge/ecSZ5kDBwCD3ctjE6) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/find_the_smallest_number_in_a_list.py) | Very Easy |
 | [Return the Last Element in a List](https://edabit.com/challenge/uPtuNNTuASzPZMQrW) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/return_the_last_item_in_a_list.py) | Very Easy |
 | [Is the Number Less than or Equal to Zero?](https://edabit.com/challenge/Rx2pkSA9dCmtwS8xt) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/less_than_or_equal_to_zero.py) | Very Easy |
 | [Find the Smallest and Biggest Numbers](https://edabit.com/challenge/y9Rans4Ry5oW74cat) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/find_the_smallest_and_biggest_numbers.py) | Very Easy |
-| [Return the Sum of Two Numbers](https://edabit.com/challenge/rZToTkR5eB9Zn4zLh) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/return_the_sum_of_two_numbers.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/very_easy/return_the_sum_of_two_numbers.js) | Very Easy |
 | [Convert Number to String of Dashes](https://edabit.com/challenge/f3jm7sk7LaYttYyLP) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/convert_number_to_dashes.py) | Very Easy |
 | [Return the Next Number from the Integer Passed](https://edabit.com/challenge/KjCS7occ9hfu5snpb) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/return_next_number.py) | Very Easy |
 | [To the Power of _____](https://edabit.com/challenge/xWSjvoH7mEkSnqS7H) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/to_the_power_of.py) | Very Easy |
