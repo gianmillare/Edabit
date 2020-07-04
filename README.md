@@ -70,7 +70,7 @@
 | [Frames Per Second](https://edabit.com/challenge/Yj2Rew5XQYpu7Nosq) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/frames_per_second.py) | Very Easy |
 | [Divides Evenly](https://edabit.com/challenge/NRxWszQRw5JqSDmQS) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/divides_evenly.py) | Very Easy |
 | [Recursion to Repeat a String n Number of Times](https://edabit.com/challenge/QKmETue6fMTdcB8Rq) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/recursion_to_repeat_a_string_a_number_of_times.py) | Very Easy |
-| [Using the "and" Operator](https://edabit.com/challenge/gbWDtMHtZARm7sdNA) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/using_the_and_operator.py) | Very Easy |
+| [Using the "and" Operator](https://edabit.com/challenge/gbWDtMHtZARm7sdNA) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/using_the_and_operator.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/very_easy/using_the_and_operator.js)| Very Easy |
 | [Is the String Empty?](https://edabit.com/challenge/wtu32ZFxHJsuQnogX) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/is_the_string_empty.py) | Very Easy |
 | [Compare Strings by Count of Characters](https://edabit.com/challenge/C3N2JEfFQoh4cqQ98) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/compare_strings_by_count_of_characters.py) | Very Easy |
 | [Testing K^K == N?](https://edabit.com/challenge/pKyeEDkNqZraqS3rW) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/testing_k_to_k_equals_n.py) | Very Easy |
