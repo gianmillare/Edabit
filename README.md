@@ -31,9 +31,9 @@
 | [Add the Index](https://edabit.com/challenge/gr4ihixfTaoEmZiin) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/add_the_index.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/easy/add_the_index.js) | Easy |
 | [Unpacking Lists](https://edabit.com/challenge/7sdNcax4GsLSrNQbM) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/unpacking_lists.py) / [JavaScipt](https://github.com/gianmillare/Edabit/blob/master/javascript/easy/es6_destructuring_arrays_I.js) | Easy |
 | [Find Number of Digits in Number](https://edabit.com/challenge/iqaQLvS7yfGR2wJyL) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/find_number_of_digits_in_number.py) | Easy |
-| [CMS Selector Based on a Given String](https://edabit.com/challenge/whEretKtpEbEBAAfr) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/cms_selector_based_on_a_given_string.py) | Easy |
-| [Radian to Degree](https://edabit.com/challenge/bNp4kd4rFfysPepkp) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/radian_to_degree.py) | Easy |
-| [Characters in Shapes](https://edabit.com/challenge/S9KCN5kqoDbhNdKh5) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/characters_in_shapes.py) | Easy |
+| [CMS Selector Based on a Given String](https://edabit.com/challenge/whEretKtpEbEBAAfr) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/cms_selector_based_on_a_given_string.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/easy/cms_selector_based_on_a_given_string.js) | Easy |
+| [Radian to Degree](https://edabit.com/challenge/bNp4kd4rFfysPepkp) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/radian_to_degree.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/easy/radian_to_degree.js) | Easy |
+| [Characters in Shapes](https://edabit.com/challenge/S9KCN5kqoDbhNdKh5) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/easy/characters_in_shapes.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/easy/characters_in_shapes.js) | Easy |
 
 ### Difficulty - Very Easy
 | Problem Set  | Solution | Difficulty |
