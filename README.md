@@ -91,11 +91,11 @@
 | [Check String for Spaces](https://edabit.com/challenge/rR2qf7ELnXoXESiz2) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/check_string_for_spaces.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/very_easy/check_string_for_spaces.js) | Very Easy |
 | [Evaluate an Equation](https://edabit.com/challenge/QM6ZgHxvQCDX9Tzoa) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/evaluate_an_equation.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/very_easy/evaluate_an_equation.js) | Very Easy |
 | [Edaaaaabit](https://edabit.com/challenge/hPaBJ7KJZ8fZtjJgL) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/edaaaaabit.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/very_easy/edaaaaabit.js) | Very Easy |
-| [Find the Smallest and Biggest Numbers](https://edabit.com/challenge/y9Rans4Ry5oW74cat) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/find_the_smallest_and_biggest_numbers.py) | Very Easy |
-| [The 3 Programmers Problem](https://edabit.com/challenge/9zsDKijmBffmnk9AP) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/the_3_programmers_problem.py) | Very Easy |
-| [Stack the Boxes](https://edabit.com/challenge/SKdpWwgKMAwMPHvRK) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/stack_the_boxes.py) | Very Easy |
+| [Find the Smallest and Biggest Numbers](https://edabit.com/challenge/y9Rans4Ry5oW74cat) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/find_the_smallest_and_biggest_numbers.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/very_easy/find_the_smallest_and_biggest_numbers.js)| Very Easy |
+| [The 3 Programmers Problem](https://edabit.com/challenge/9zsDKijmBffmnk9AP) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/the_3_programmers_problem.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/very_easy/the_3_programmers_problem.js)| Very Easy |
+| [Stack the Boxes](https://edabit.com/challenge/SKdpWwgKMAwMPHvRK) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/stack_the_boxes.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/very_easy/stack_the_boxes.js)| Very Easy |
 | [Drinks Allowed?](https://edabit.com/challenge/iipAZ7sK8C5sRF8K6) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/drinks_allowed.py) | Very Easy |
-| [No Conditionals?](https://edabit.com/challenge/D6Qbh5doP6RvopoF3) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/no_conditionals.py) | Very Easy |
+| [No Conditionals?](https://edabit.com/challenge/D6Qbh5doP6RvopoF3) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/very_easy/no_conditionals.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/very_easy/no_conditionals.js) | Very Easy |
 
 
 
