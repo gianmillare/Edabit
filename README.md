@@ -3,11 +3,11 @@
 ### Difficulty - Medium
 | Problem Set  | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
-| [How Many Solutions Does This Quadratic Have?](https://edabit.com/challenge/o2AKq4xy3nfZabKXL) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/how_many_solutions_does_this_quadratic_have.py) | Medium |
-| [Calculate the Profit](https://edabit.com/challenge/YfoKQWNeYETb9PYpw) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/calculate_the_profit.py) | Medium |
+| [How Many Solutions Does This Quadratic Have?](https://edabit.com/challenge/o2AKq4xy3nfZabKXL) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/how_many_solutions_does_this_quadratic_have.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/medium/how_many_solutions_does_this_quadratic_have.js) | Medium |
+| [Calculate the Profit](https://edabit.com/challenge/YfoKQWNeYETb9PYpw) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/calculate_the_profit.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/medium/calculate_the_profit.js) | Medium |
 | [Factorial of a Number](https://edabit.com/challenge/PNbsQzmDR3CJ9JHkB) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/factorial_of_a_number.py) | Medium |
-| [FizzBuzz Interview Question](https://edabit.com/challenge/WXqH9qvvGkmx4dMvp) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/fizzbuzz_interview_question.py) | Medium |
-| [A Circle and Two Squares](https://edabit.com/challenge/NNhkGocuPMcryW7GP) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/a_circle_and_two_squares.py) | Medium |
+| [FizzBuzz Interview Question](https://edabit.com/challenge/WXqH9qvvGkmx4dMvp) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/fizzbuzz_interview_question.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/medium/fizzbuzz_interview_question.js) | Medium |
+| [A Circle and Two Squares](https://edabit.com/challenge/NNhkGocuPMcryW7GP) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/a_circle_and_two_squares.py) / [JavaScript](https://github.com/gianmillare/Edabit/blob/master/javascript/medium/a_circle_and_two_squares.js) | Medium |
 | [Drunken Python](https://edabit.com/challenge/pfn6QRn6eiTHEPpSs) | [Python](https://github.com/gianmillare/Edabit/blob/master/python/medium/drunken_python.py) | Medium |
 
 ### Difficulty - Easy
